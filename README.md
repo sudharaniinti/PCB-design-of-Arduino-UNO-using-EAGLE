@@ -11,4 +11,4 @@ This repository contains the following:
 
 4. Gerbers
 
-5. PDFs of the schematic and the board files
+5. PDFs of the schematic 
